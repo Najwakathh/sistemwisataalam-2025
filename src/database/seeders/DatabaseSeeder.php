@@ -24,6 +24,7 @@ class DatabaseSeeder extends Seeder
             AksesTransportasiSeeder::class,
             UlasanPengunjungSeeder::class,
             WisataStatusHistorySeeder::class,
+            PermintaanDestinasiSeeder::class
         ]);
     }
 }
